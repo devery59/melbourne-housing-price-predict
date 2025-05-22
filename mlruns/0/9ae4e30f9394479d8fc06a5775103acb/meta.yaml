@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/9ae4e30f9394479d8fc06a5775103acb/artifacts
+deleted_time: 1747891029211
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 9ae4e30f9394479d8fc06a5775103acb
+run_name: burly-trout-529
+run_uuid: 9ae4e30f9394479d8fc06a5775103acb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747890890048
+status: 1
+tags: []
+user_id: gimgeonhui

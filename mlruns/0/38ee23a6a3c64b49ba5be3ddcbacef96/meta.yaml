@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/38ee23a6a3c64b49ba5be3ddcbacef96/artifacts
+end_time: 1747891335326
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 38ee23a6a3c64b49ba5be3ddcbacef96
+run_name: beautiful-shoat-257
+run_uuid: 38ee23a6a3c64b49ba5be3ddcbacef96
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747891333210
+status: 4
+tags: []
+user_id: gimgeonhui

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/67d7bf0ce669427bb5cbd3966bd4011f/artifacts
+end_time: 1747890618718
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 67d7bf0ce669427bb5cbd3966bd4011f
+run_name: spiffy-ray-312
+run_uuid: 67d7bf0ce669427bb5cbd3966bd4011f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747890616212
+status: 4
+tags: []
+user_id: gimgeonhui

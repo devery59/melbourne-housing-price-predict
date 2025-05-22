@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/ca9968f048964a20940361c6f8e15074/artifacts
+end_time: 1747891587353
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ca9968f048964a20940361c6f8e15074
+run_name: resilient-skunk-471
+run_uuid: ca9968f048964a20940361c6f8e15074
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747891585247
+status: 4
+tags: []
+user_id: gimgeonhui

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/f65c3c45a1034cd5999c4407b4ddc51f/artifacts
+end_time: 1747891449741
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f65c3c45a1034cd5999c4407b4ddc51f
+run_name: bedecked-elk-807
+run_uuid: f65c3c45a1034cd5999c4407b4ddc51f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747891447557
+status: 4
+tags: []
+user_id: gimgeonhui

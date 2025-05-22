@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/3d10d69ebc7d455c86f3b006db578732/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3d10d69ebc7d455c86f3b006db578732
+run_name: kindly-vole-802
+run_uuid: 3d10d69ebc7d455c86f3b006db578732
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747891684553
+status: 1
+tags: []
+user_id: gimgeonhui

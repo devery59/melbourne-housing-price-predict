@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/ed26b020d03e4960ab9d8ecc38e74893/artifacts
+end_time: 1747891492181
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ed26b020d03e4960ab9d8ecc38e74893
+run_name: thundering-hawk-26
+run_uuid: ed26b020d03e4960ab9d8ecc38e74893
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747891489919
+status: 4
+tags: []
+user_id: gimgeonhui

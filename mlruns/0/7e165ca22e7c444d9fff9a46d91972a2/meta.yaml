@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/7e165ca22e7c444d9fff9a46d91972a2/artifacts
+end_time: 1747891232543
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7e165ca22e7c444d9fff9a46d91972a2
+run_name: beautiful-midge-740
+run_uuid: 7e165ca22e7c444d9fff9a46d91972a2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747891230408
+status: 4
+tags: []
+user_id: gimgeonhui

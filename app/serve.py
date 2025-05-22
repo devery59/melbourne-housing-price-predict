@@ -10,7 +10,7 @@ logging.basicConfig(level=logging.INFO)
 app = FastAPI()
 
 # Load Model   
-model = mlflow.sklearn.load_model("mlruns/1/d90474f5743b402da0b44996ee60cf7e/artifacts/model")
+model = mlflow.sklearn.load_model("mlruns/1/5d9a1be412e24941992658a03f8e5fd2/artifacts/model")
 
 # Features List (Check Accuracy)
 FEATURES = ['Rooms', 'Distance', 'Landsize', 'BuildingArea', 'YearBuilt', 'Bathroom', 'Car']

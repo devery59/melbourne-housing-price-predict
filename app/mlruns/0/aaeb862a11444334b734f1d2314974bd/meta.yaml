@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/aaeb862a11444334b734f1d2314974bd/artifacts
+end_time: 1747891064869
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: aaeb862a11444334b734f1d2314974bd
+run_name: big-hog-596
+run_uuid: aaeb862a11444334b734f1d2314974bd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747891062518
+status: 4
+tags: []
+user_id: gimgeonhui
